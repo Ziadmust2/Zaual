@@ -46,3 +46,16 @@ button:hover {
 button:active {
   transform: scale(0.96);
 }
+
+/* Countdown Timer Styling */
+#countdown {
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: #000;
+  color: #0f0;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
+  margin-top: 1rem;
+}
